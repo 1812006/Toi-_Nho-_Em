@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "ko có "cờ rút" ",
+    titleWeb: "ko có cờ rút ",
     introTitle: 'lúc nào có cờ rút thì tao thay hàng này',
     introDesc: `gửi cờ rút tương lai: Cuộc đời của mình sẽ thật tuyệt nếu có cậu đó <3`,
     btnIntro: '^^HiHi^^',

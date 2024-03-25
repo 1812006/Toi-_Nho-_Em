@@ -1,8 +1,8 @@
 const CONFIG = {
-    titleWeb: "không có gì đâu ",
-    introTitle: 'ko có gì đâu',
-    introDesc: `không có gì đâu`,
-    btnIntro: 'không có gì đâu',
+    titleWeb: "chào em bé nhỏ của tui",
+    introTitle: 'em bé yêu anh hông ạ',
+    introDesc: ` yêu nhiều nhiều nhiều hông ạ`,
+    btnIntro: 'chà chà',
     title: 'không có gì đâu',
     desc: 'không có gì đâu',
     btnYes: 'không có gì đâu',
